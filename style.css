@@ -7,6 +7,12 @@ header
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
+header  h2 a:hover
+{
+    cursor: pointer;
+    margin: 0;
+}
+
 main
 {
     padding: 20px;
