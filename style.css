@@ -1,0 +1,62 @@
+header
+{
+    background-color: #ea0505;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+main
+{
+    padding: 20px;
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin: 0;
+    color: black;
+    text-align: center;
+}
+section
+{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+footer
+{
+    background-color: #ea0505;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.order-button
+{
+    background-color: #7805ea;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: medium;
+}
+.order-button:hover
+{
+    background-color: #04c24a;
+}
+.service:hover
+{
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+footer a:hover{
+    color: #04c24a;
+    cursor: pointer;
+}
